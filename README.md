@@ -8,6 +8,12 @@
 
 - 👯 I’m looking to collaborate on [G-Academy](https://g-academy.net/)
 
+- 🤝 I’m looking for help with [google.com](google.com)
+
+- 👨‍💻 All of my projects are available at [https://gudangsoft.net/](https://gudangsoft.net/)
+
+- 📫 How to reach me **gudangsoft.net@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ey_coss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ey_coss" height="30" width="40" /></a>
