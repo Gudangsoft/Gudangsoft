@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudangsoft" alt="gudangsoft" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/ey_coss" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ey_coss?logo=twitter&style=for-the-badge" alt="https://twitter.com/ey_coss" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ey_coss" target="blank"><img src="https://img.shields.io/twitter/follow/ey_coss?logo=twitter&style=for-the-badge" alt="ey_coss" /></a> </p>
 
 - 🔭 Gudangsoft [Gudangsoft.net](https://gudangsoft.net/)
 
@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/ey_coss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ey_coss" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/gudangsoft.academy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/gudangsoft.academy" height="30" width="40" /></a>
+<a href="https://twitter.com/ey_coss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ey_coss" height="30" width="40" /></a>
+<a href="https://fb.com/gudangsoft.academy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gudangsoft.academy" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/gudangsoft.academy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gudangsoft.academy/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/gudangsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/gudangsoft" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucfjt2lrigv-4zewun347apw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucfjt2lrigv-4zewun347apw" height="30" width="40" /></a>
+<a href="https://dribbble.com/gudangsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="gudangsoft" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/channel/ucfjt2lrigv-4zewun347apw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucfjt2lrigv-4zewun347apw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
