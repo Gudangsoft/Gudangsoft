@@ -2,7 +2,7 @@
 <h3 align="center">Website Developper</h3>
 <p align="left"> <a href="https://twitter.com/ey_coss" target="blank"><img src="https://img.shields.io/twitter/follow/ey_coss?logo=twitter&style=for-the-badge" alt="ey_coss" /></a> </p>
 
-- 🔭 Gudangsoft [Gudangsoft.net](https://gudangsoft.net/)
+- 🔭 I’m Working [Gudangsoft.net](https://gudangsoft.net/)
 
 - 🌱 I’m currently learning **G-Academy,Laracash**
 
