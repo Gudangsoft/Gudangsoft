@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [G-Academy](https://g-academy.net/)
 
-- 🤝 I’m looking for help with [google.com](google.com)
+- 🤝 I'm work with my wonderful colleagues [jarwonozt](https://github.com/jarwonozt), [aripdev](https://github.com/aripdev)
 
 - 👨‍💻 All of my projects are available at [https://gudangsoft.net/](https://gudangsoft.net/)
 
